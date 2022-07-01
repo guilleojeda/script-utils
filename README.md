@@ -1,2 +1,2 @@
 # script-utils
-Script utilities
+Just a very unorganized collection of useful scripts.
